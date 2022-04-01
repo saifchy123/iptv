@@ -1,0 +1,277 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nk-Six"  group-title="New Group",Nk-Six
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-
+
+logo="https://www.tsports.com/assets/upload/wallpaper/wallpaper_1606127688.jpg" tvg-name="T-Sports"  
+
+group-title="New Group",T-Sports
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Maasranga"  group-title="New 
+
+Group",Maasranga
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Six"  group-title="New Group",Sony 
+
+Six
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony ESpn"  group-title="New 
+
+Group",Sony ESpn
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ten 1"  group-title="New Group",Ten 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ten 2"  group-title="New Group",Ten 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Willow Cricket"  group-title="New 
+
+Group",Willow Cricket
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Sports Cricket"  group-title="New 
+
+Group",Sky Sports Cricket
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sky Sports Mix"  group-title="New 
+
+Group",Sky Sports Mix
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sports 2"  group-title="New 
+
+Group",Bein Sports 2
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sports English"  group-title="New 
+
+Group",Bein Sports English
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Bein Sports fr"  group-title="New 
+
+Group",Bein Sports fr
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Sports hd 1"  group-title="New 
+
+Group",Star Sports hd 1
+http://tv2.ebox.live:8080/live/starsports-1.m3u8?rand=(random)
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Sports hd Hindi"  group-title="New 
+
+Group",Star Sports hd Hindi
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Sports hd 2"  group-title="New 
+
+Group",Star Sports hd 2
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mtv Hd"  group-title="New Group",Mtv Hd
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StarSports SelectHd 1"  group-
+
+title="New Group",StarSports SelectHd 1
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="StarSports SelectHd 2"  group-
+
+title="New Group",StarSports SelectHd 2
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Bangla Hd"  group-title="New 
+
+Group",Zee Bangla Hd
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Stat Plud Hd"  group-title="New 
+
+Group",Stat Plud Hd
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ZeeTv Hd"  group-title="New 
+
+Group",ZeeTv Hd
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Colors Hd"  group-title="New 
+
+Group",Colors Hd
+http://tv2.ebox.live:8080/live/colors.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Hd"  group-title="New Group",Sony 
+
+Hd
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sab Hd"  group-title="New Group",Sab 
+
+Hd
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Gold Hd"  group-title="New 
+
+Group",Star Gold Hd
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Gold Select Hd"  group-title="New 
+
+Group",Star Gold Select Hd
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Cinema Hd"  group-title="New 
+
+Group",Zee Cinema Hd
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Max Hd"  group-title="New Group",Max 
+
+Hd
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Movies Hd"  group-title="New 
+
+Group",Star Movies Hd
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Pix Hd"  group-title="New 
+
+Group",Sony Pix Hd
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Hbo Hd"  group-title="New Group",Hbo 
+
+Hd
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Colors Infinity Hd"  group-title="New 
+
+Group",Colors Infinity Hd
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Discovery Hd"  group-title="New 
+
+Group",Discovery Hd
+http://tv2.ebox.live:8080/live/discovery.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animal Planet Hd"  group-title="New 
+
+Group",Animal Planet Hd
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Net Wild Hd"  group-title="New 
+
+Group",Net Wild Hd
+http://tv2.ebox.live:8080/live/natg.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Gtv Hd"  group-title="New Group",Gtv Hd
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?
+
+nimblesessionid=20853782&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDExOjE3OjMxIEFNJ
+
+mhhc2hfdmFsdWU9bzFNTjlLL1dYZUtqWTVQMmVla2wwUT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="T Sports Hd"  group-title="New Group",T 
+
+Sports Hd
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?
+
+nimblesessionid=20685877&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6MjM6MTUgQU0m
+
+aGFzaF92YWx1ZT1pNTM2K3QzVzNCak5TcU55dlE4dnJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel I"  group-title="New 
+
+Group",Channel I
+http://tv.ebox.live:8081/thunderbd/6/chunks.m3u8?
+
+nimblesessionid=20685964&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6MjQ6MTcgQU0ma
+
+GFzaF92YWx1ZT1IRTM5MFdYNDIvSWVyblpRK1d3SUFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel 9"  group-title="New 
+
+Group",Channel 9
+http://tv.ebox.live:8081/thunderbd/4/chunks.m3u8?
+
+nimblesessionid=20686209&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6MjU6NTMgQU0m
+
+aGFzaF92YWx1ZT1UbDBLL1ErM2daZWxHc2ZkYVRrU3lnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Jolsa"  group-title="New Group",Star 
+
+Jolsa
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?
+
+nimblesessionid=20686417&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6MjY6NTAgQU0ma
+
+GFzaF92YWx1ZT0zZFlOWXZ0VEhPV1JGQ3NaQ09VMEZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
+
+=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Osn Movies"  group-title="New 
+
+Group",Osn Movies
+http://tv.ebox.live:8081/thunderbd/39/chunks.m3u8?
+
+nimblesessionid=20686717&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6Mjc6NTcgQU0ma
+
+GFzaF92YWx1ZT1kL0h2UHBEVTdtUWMyT21qSXJXOWZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
+
+=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&Tv Hd"  group-title="New Group",&Tv 
+
+Hd
+http://tv.ebox.live:8081/thunderbd/74/chunks.m3u8?
+
+nimblesessionid=20687053&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6Mjk6MTMgQU0ma
+
+GFzaF92YWx1ZT1ZR2lWWGcyemRzWWJ0ZXBlbDNyeHB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPT
+
+U=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Ten 3 Hd"  group-title="New Group",Ten 
+
+3 Hd
+http://tv.ebox.live:8081/thunderbd/22/chunks.m3u8?
+
+nimblesessionid=20687330&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6MzA6NDggQU0m
+
+aGFzaF92YWx1ZT01a1VJdGwyR0o4bTV2OTR5SUJFS05nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU
+
+=
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Hbo"  group-title="New Group",Hbo
+http://tv.ebox.live:8081/thunderbd/42/chunks.m3u8?
+
+nimblesessionid=20689076&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDIyIDk6Mzg6NTAgQU0m
+
+aGFzaF92YWx1ZT1yUUN2MGZuOGZGeUhGRkhUQWh5cHd3PT0mdmFsaWRtaW51dGVzPTYwJmlkP
+
+TU=
+
+#EXTINF:45, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="La Liga"  group-title="New Group",La 
+
+Liga
+http://tv2.ebox.live:8080/live/channel9.m3u8
+
+#EXTINF:46, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Movies Now Hd"  group-title="New 
+
+Group",Movies Now Hd
+http://tv.ebox.live:8081/thunderbd/45/chunks.m3u8?
+
+nimblesessionid=20854632&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDExOjI3OjU0IEFNJ
+
+mhhc2hfdmFsdWU9RktNU2NncG5VbjJlT08wQzRidzE2dz09JnZhbGlkbWludXRlcz02MCZpZD01
+
